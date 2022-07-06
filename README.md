@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mastro1
 - 🌱 I’m interested in sustainability and programming.
 - 📚 I’m currently enrolled in the Sustainable Management and Technology Master degree, a collaboration between IMD Business School, EPFL, and UNIL.
-- 💞️ I’m looking to collaborate on impactful projects.
+- 🌍 I’m looking to collaborate on impactful projects.
 - 📫 How to reach me: massimo.poretti@epfl.ch
 
 <!---
