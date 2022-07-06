@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mastro1
-- 🌱 I’m interested in sustainability and programming.
-- 📚 I’m currently enrolled in the Sustainable Management and Technology Master degree, a collaboration between IMD Business School, EPFL, and UNIL.
-- 🌍 I’m looking to collaborate on impactful projects.
+- 🌱💻 I’m interested in sustainability and programming. I believe technology can give the major contribute needed to overpass the societal crisis.
+- 📚 I’m currently enrolled in the Master of Science in Sustainable Management and Technology (SMT) program, offered by E4S on behalf of its three partner institutions (IMD Business School, EPFL, and UNIL). Its aim is to equip the entrepreneurs and intrapreneurs of the future with the knowledge and skills enabling them to contribute to the transition toward a more resilient, environmentally responsible and inclusive economy while harnessing the power of technology.
+- 🌍 I’m looking to collaborate on impactful projects. My background in economics and my passion for the programming, want to be challenged with societal and environmental challenges.
 - 📫 How to reach me: massimo.poretti@epfl.ch
 
 <!---
